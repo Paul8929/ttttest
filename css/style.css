@@ -1,0 +1,57 @@
+
+
+body {
+    padding: 15px;
+    margin: 0;
+    text-align: center;
+    background-color: grey;
+  }
+
+img {
+    width: 100px;
+    height: 100px;
+}
+
+.site_name {
+    color: rgb(128, 0, 0);
+}
+
+h2 {
+    color: rgb(255, 251, 0);
+}
+
+#email {
+    color:rgb(9, 9, 129)
+}
+
+#phone {
+    color:rgb(136, 7, 61)
+}
+
+.send_email {
+    color: brown;
+}
+
+
+
+#section_skills {
+    text-align: center;
+    display: inline-block;
+}
+
+
+ul {
+    padding-left: 0;
+    list-style: none;
+    display: inline-block;
+    width: 100%;
+}
+
+li {
+    display: inline-block;
+    width: 25%;
+    /*margin: 0 15px;*/
+    margin-left: -4px;
+}
+
+
